@@ -2,8 +2,6 @@ package homework;
 
 import java.util.Scanner;
 
-import sun.awt.windows.ThemeReader;
-
 public class StartHomework {
 
 	public static void main(String[] args) {
@@ -37,7 +35,6 @@ public class StartHomework {
 		
 		scanner.close();
 	}
-
 }
 
 
