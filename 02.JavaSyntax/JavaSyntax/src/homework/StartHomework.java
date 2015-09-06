@@ -8,7 +8,7 @@ public class StartHomework {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-/*
+
 		System.out.println("Calculating rectangle area. Please input 2 numbers:");
 		int a = scanner.nextInt();
 		int b = scanner.nextInt();
@@ -55,7 +55,6 @@ public class StartHomework {
 		int numberForCountBits = scanner.nextInt();
 		int count = CountOfBitsOne.Count(numberForCountBits);
 		System.out.println(count);
-		*/
 		
 		scanner.close();
 	}
