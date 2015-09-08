@@ -25,5 +25,7 @@ public class SymmetricNumbersInRange {
                 System.out.println(number);
             }
         }
+
+        scanner.close();
     }
 }
