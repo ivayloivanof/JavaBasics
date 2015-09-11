@@ -8,6 +8,8 @@ public class SortArrayOfNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
+        scanner.close();
+
         ArrayList<Integer> numbers = new ArrayList<Integer>();
 
         for (int i = 0; i < number; i++) {
